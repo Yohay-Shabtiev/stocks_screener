@@ -1,3 +1,10 @@
+================================================================
+
+This project is for educational and informational purposes only. It does not constitute financial, investment, or trading advice. Nothing it outputs is a recommendation to buy or sell any security. Data is sourced from Yahoo Finance via `yfinance` and may be delayed, incomplete, or inaccurate. Use at your own risk — the author accepts no liability for any losses resulting from use of this software.
+
+================================================================
+
+
 # Stock Screener
 
 A Python-based technical analysis screener that scans a watchlist of ~250 S&P 500 / Nasdaq stocks for tradeable setups using price action, momentum, and volatility indicators.
