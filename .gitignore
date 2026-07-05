@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+.claude/
+
+# Local historical/generated data (large, not meant for version control)
+historical_data/
+
+# Screener output files
+*.txt
+*.csv
+*.zip
+
+# Keep one sample report as a demo
+!outputs/2026week25.txt
+
+# OS
+.DS_Store
+Thumbs.db
